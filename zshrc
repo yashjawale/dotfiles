@@ -12,7 +12,7 @@ export BAT_THEME="ansi"
 alias cat='bat'
 
 #export PATH="$HOME/.emacs.d/bin:$PATH"
-PS1="%B%F{010}%n@%m%f%b:%B%F{014}%~ %#%f%b "
+#PS1="%B%F{010}%n@%m%f%b:%B%F{014}%~ %#%f%b "
 
 
 # Load Angular CLI autocompletion.
