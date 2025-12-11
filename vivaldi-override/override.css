@@ -1,3 +1,4 @@
+/* Mac overrides */
 #browser.mac,
 #browser.mac + div,
 #browser.mac + div + div,
@@ -8,4 +9,13 @@
     font-family:
         "JetBrains Mono Nerd Font", "JetBrains Mono", "SF", ".SFNSDisplay", HelveticaNeue, LucidaGrande,
         system-ui, sans-serif;
+}
+
+/* Linux overrides */
+#browser.linux,
+#browser.linux button,
+#browser.linux input,
+#browser.linux select,
+#browser.linux textarea {
+	font-family: "JetBrainsMono Nerd Font Mono", "JetBrains Mono", Cantarell, 'Noto Sans', Helvetica, system-ui, sans-serif;
 }
