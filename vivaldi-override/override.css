@@ -1,0 +1,11 @@
+#browser.mac,
+#browser.mac + div,
+#browser.mac + div + div,
+#browser.mac button,
+#browser.mac input,
+#browser.mac select,
+#browser.mac textarea {
+    font-family:
+        "JetBrains Mono", "SF", ".SFNSDisplay", HelveticaNeue, LucidaGrande,
+        system-ui, sans-serif;
+}
